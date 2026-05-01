@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy Jorge (Quetzal)
 
-<!--
-**DonQuetzal/DonQuetzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingeniería en Desarrollo y Gestión de Software  
+📊 Enfocado en bases de datos, análisis de datos y backend  
+📍 Hermosillo, México · UTH  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+- SQL (MySQL) · MongoDB
+- Python · Linux
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Actualmente aprendiendo
+- Data Engineering & ETL pipelines
+- Optimización de bases de datos
+
+## 📌 Proyectos
+🔹 Sistema de Gestión de Inventarios (en progreso)  
+🔹 Prácticas con MongoDB y modelado de datos
+
+## 📫 Contacto
+- jorgemtzdelgado94@gmail.com
