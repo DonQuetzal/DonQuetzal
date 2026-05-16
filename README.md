@@ -15,6 +15,7 @@
 
 ## 📌 Proyectos
 🔹 [inventario-oficina](https://github.com/DonQuetzal/inventario-oficina) — Sistema de gestión de inventarios.
+
 🔹 Prácticas con MongoDB y modelado de datos
 
 ## 📫 Contacto
