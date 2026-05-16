@@ -14,8 +14,7 @@
 - Optimización de bases de datos
 
 ## 📌 Proyectos
-🔹 [inventario-oficina](https://github.com/DonQuetzal/inventario-oficina) — Sistema de gestión de inventarios desarrollado con enfoque en bases de datos y automatización.
-
+🔹 [inventario-oficina](https://github.com/DonQuetzal/inventario-oficina) — Sistema de gestión de inventarios.
 🔹 Prácticas con MongoDB y modelado de datos
 
 ## 📫 Contacto
